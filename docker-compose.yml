@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+
+  react:
+    image: assig4-full-frontend
+    ports:
+       - "81:81"
